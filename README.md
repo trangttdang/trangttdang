@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Trang!
 
-I’m a Computer Science student at NJIT, class of 2025. I’m passionate about technology, innovation, and empowering others, especially women in tech through my involvement with organizations like the [Women in Computing Society](https://www.linkedin.com/company/wicsnjit/) and [GirlHacks](https://www.instagram.com/girlhacksnjit/).
+I’m a Computer Science student at the New Jersey Institute of Technology (NJIT), class of 2025. I’m passionate about technology, innovation, and empowering others, especially women in tech through my involvement with organizations like the [Women in Computing Society](https://www.linkedin.com/company/wicsnjit/) and [GirlHacks](https://www.instagram.com/girlhacksnjit/).
 
 ## 🌟 About Me
 - 🎓 **Education**: B.S. in Computer Science at NJIT (Graduating Dec 2024)
